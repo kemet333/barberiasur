@@ -1,0 +1,5 @@
+# Originales a 2K de las fotos de producto (pesan mucho)
+productos-raw/
+# Vista local generada por build.py
+/index.html
+.DS_Store
